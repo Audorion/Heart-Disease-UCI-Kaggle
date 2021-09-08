@@ -15,4 +15,4 @@
 ## Other 
 В проекте присутсвует и другие метрики оценки моделей.
 Inline-style: 
-![alt text](https://github.com/Audorion/Heart-Disease-UCI-Kaggle/blob/main/dataset-card.png)  
+!(https://github.com/Audorion/Heart-Disease-UCI-Kaggle/blob/main/Kaggle_logo.png)  
