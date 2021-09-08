@@ -14,5 +14,4 @@
 * CatBoost - 85.1%
 ## Other 
 В проекте присутсвует и другие метрики оценки моделей.
-Inline-style: 
-!(https://github.com/Audorion/Heart-Disease-UCI-Kaggle/blob/main/Kaggle_logo.png)  
+![img](https://github.com/Audorion/Heart-Disease-UCI-Kaggle/blob/main/Kaggle_logo.png)  
